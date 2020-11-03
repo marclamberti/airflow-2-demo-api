@@ -5,6 +5,11 @@ This project is used to illustrate the STABLE REST API in AIRFLOW 2.0
 
 Astro CLI to run Airflow 2.0
 
+## Instructions
+
+npm install<br />
+npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
